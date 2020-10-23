@@ -1,0 +1,87 @@
+
+
+
+github 账号：
+1126868318
+LIUhui520
+
+
+git命令
+    1、初始化本地库
+        git init
+    2、设置用户签名
+        git config --global user.name 用户名
+    3、设置用户签名
+        git config --global user.email 邮箱
+    4、添加文件到暂存区
+        git add 当前在的文件夹
+    5、将暂存区的文件提交仓库
+       git commit -m '提交注释'
+    6、拷贝远程仓库，下载项目
+       git clone
+    7、查看当前状态，显示变更文件
+       git status
+    7、列出所有分支
+        git branch -a
+        创建分支
+        git branch 分支名
+    8、切换分支
+       git checkout 分支名
+    9、合并分支
+       merge 分支名 合并分支名到当前分支
+    10、比较差异
+        git diff
+    11、回退版本
+        git reset
+    12、删除工作区文件
+        git rm
+    13、移动或重命名工作区文件
+        git mv
+    14、查看历史提交记录
+        git log
+    15、以列表形式查看指定文件的历史修改记录
+        git blame <file>
+    16、远程仓库操作
+        git remote
+        远程库创建别名
+        git remote add  origin https://github.com/1126868318/lhui_test.git
+        查看远程库别名
+        git remote -v
+    19、上传远程代码并合并
+        git push 远程库别名 分支名： git push origin master
+    20、克隆远程库
+        git clone    https://github.com/1126868318/lhui_test.git
+
+    17、从远程获取代码
+        git fetch
+    18、下载远程代码并合并
+        git pull
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
