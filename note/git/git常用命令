@@ -17,6 +17,8 @@ git命令
         git add 当前在的文件夹
     5、将暂存区的文件提交仓库
        git commit -m '提交注释'
+
+       git commit -a 提交所有
     6、拷贝远程仓库，下载项目
        git clone
     7、查看当前状态，显示变更文件
