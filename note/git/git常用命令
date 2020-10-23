@@ -44,7 +44,7 @@ git命令
     16、远程仓库操作
         git remote
         远程库创建别名
-        git remote add  origin https://github.com/1126868318/lhui_test.git
+        git remote add  liu_hui https://github.com/1126868318/liu_hui.git
         查看远程库别名
         git remote -v
     19、上传远程代码并合并
@@ -56,6 +56,9 @@ git命令
         git fetch
     18、下载远程代码并合并
         git pull
+
+
+        提交完成
 
 
 
