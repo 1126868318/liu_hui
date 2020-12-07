@@ -9,7 +9,7 @@ import java.util.concurrent.CopyOnWriteArrayList;
 import java.util.concurrent.CountedCompleter;
 import java.util.concurrent.locks.*;
 /**
- * @program: liu_hui
+ * @program: liu_hui1111
  * @description: 多线程方面的学习，关键概论
  * @author: Mr.Lhui
  * @create: 2020-07-22 16:39
